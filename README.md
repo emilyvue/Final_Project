@@ -8,3 +8,8 @@
 ### Domain Modeling: 
 ###### I have also attached my domain model which will describe the entities (nouns), associations, transactions (verbs) that captures the business rules that establish the value and integrity of the system. Click to find this file in the repository titled [Final Project.drawnio.pdf](https://github.com/emilyvue/Final_Project/blob/main/Final%20Project%20.drawio.pdf). 
 
+### Functional Test Plan:
+###### Please view the folder "tests". 
+* Unit Tests 
+* Integration Tests
+* End-to-End Tests 
